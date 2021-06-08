@@ -1,0 +1,8 @@
+﻿  Stage.cpp
+  コード生成しています。
+  6 of 2418 functions ( 0.2%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    8 functions had inline decision re-evaluated but remain unchanged
+  コード生成が終了しました。
+EffekseerForDXLib_vs2019_x86.lib(EffekseerForDXLib.obj) : warning LNK4099: PDB 'EffekseerForDXLib_vs2019.pdb' が 'EffekseerForDXLib_vs2019_x86.lib(EffekseerForDXLib.obj)' で、または 'C:\Users\herok\Desktop\学校関係\授業のフォルダ\プログラム授業\ぷよぷよ\Project2\Release\EffekseerForDXLib_vs2019.pdb' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+  Project2.vcxproj -> C:\Users\herok\Desktop\学校関係\授業のフォルダ\プログラム授業\ぷよぷよ\Project2\Release\Project2.exe
